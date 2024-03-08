@@ -75,4 +75,4 @@ const SingleProductPage = () => {
   );
 };
 
-export default memo(SingleProductPage);
+export default SingleProductPage;

@@ -103,4 +103,4 @@ const CartPage = () => {
   );
 };
 
-export default memo(CartPage);
+export default CartPage;

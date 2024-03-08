@@ -48,4 +48,4 @@ const ProductCard = ({ product }) => {
   );
 };
 
-export default memo(ProductCard);
+export default ProductCard;
